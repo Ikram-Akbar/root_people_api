@@ -1,0 +1,343 @@
+[
+    {
+        "id": 1,
+        "title": "Community Cleanup Day",
+        "description": "Join us for a day of cleaning up our neighborhood. Let's work together to make our community a cleaner and better place for everyone.",
+        "price": 200,
+        "banner_img": "cleanup_day_banner.jpg",
+        "card_img": "cleanup_day_card.jpg",
+        "tags": [
+            {
+                "name": "community",
+                "color": "#3498db"
+            },
+            {
+                "name": "cleanup",
+                "color": "#2ecc71"
+            },
+            {
+                "name": "volunteering",
+                "color": "#9b59b6"
+            }
+        ],
+        "title_color": "#e74c3c"
+    },
+    {
+        "id": 2,
+        "title": "Fundraising Gala for Homeless Shelter",
+        "description": "Support our local homeless shelter by attending our fundraising gala. Enjoy an evening of live music, delicious food, and silent auctions, all for a good cause.",
+        "price": 500,
+        "banner_img": "fundraising_gala_banner.jpg",
+        "card_img": "fundraising_gala_card.jpg",
+        "tags": [
+            {
+                "name": "fundraiser",
+                "color": "#e74c3c"
+            },
+            {
+                "name": "charity",
+                "color": "#f39c12"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#f39c12"
+    },
+    {
+        "id": 3,
+        "title": "Yoga in the Park",
+        "description": "Relax and rejuvenate with a morning yoga session in the park. Suitable for all levels, this outdoor class offers the perfect opportunity to connect with nature and unwind.",
+        "price": 100,
+        "banner_img": "yoga_in_the_park_banner.jpg",
+        "card_img": "yoga_in_the_park_card.jpg",
+        "tags": [
+            {
+                "name": "yoga",
+                "color": "#e67e22"
+            },
+            {
+                "name": "wellness",
+                "color": "#27ae60"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            },
+            {
+                "name": "outdoors",
+                "color": "#1abc9c"
+            }
+        ],
+        "title_color": "#2c3e50"
+    },
+    {
+        "id": 4,
+        "title": "Volunteer at the Animal Shelter",
+        "description": "Spend your weekend volunteering at the local animal shelter. Help feed, walk, and socialize with our furry friends in need of love and care.",
+        "price": 200,
+        "banner_img": "animal_shelter_banner.jpg",
+        "card_img": "animal_shelter_card.jpg",
+        "tags": [
+            {
+                "name": "volunteering",
+                "color": "#9b59b6"
+            },
+            {
+                "name": "animals",
+                "color": "#c0392b"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#9b59b6"
+    },
+    {
+        "id": 5,
+        "title": "Beach Cleanup Marathon",
+        "description": "Join us for a full-day beach cleanup event. Let's come together to protect our oceans and marine life by removing trash and debris from our coastline.",
+        "price": 100,
+        "banner_img": "beach_cleanup_banner.jpg",
+        "card_img": "beach_cleanup_card.jpg",
+        "tags": [
+            {
+                "name": "environment",
+                "color": "#16a085"
+            },
+            {
+                "name": "cleanup",
+                "color": "#2ecc71"
+            },
+            {
+                "name": "volunteering",
+                "color": "#9b59b6"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#27ae60"
+    },
+    {
+        "id": 6,
+        "title": "Food Drive for the Homeless",
+        "description": "Help combat hunger in our community by donating non-perishable food items to our food drive. Let's make a difference together!",
+        "price": 100,
+        "banner_img": "food_drive_banner.jpg",
+        "card_img": "food_drive_card.jpg",
+        "tags": [
+            {
+                "name": "charity",
+                "color": "#f39c12"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            },
+            {
+                "name": "volunteering",
+                "color": "#9b59b6"
+            }
+        ],
+        "title_color": "#f39c12"
+    },
+    {
+        "id": 7,
+        "title": "Art Workshop for Kids",
+        "description": "Ignite your child's creativity with our fun and interactive art workshop. Let them explore various art techniques and express themselves through colors and shapes.",
+        "price": 200,
+        "banner_img": "art_workshop_banner.jpg",
+        "card_img": "art_workshop_card.jpg",
+        "tags": [
+            {
+                "name": "kids",
+                "color": "#e74c3c"
+            },
+            {
+                "name": "art",
+                "color": "#9b59b6"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#e74c3c"
+    },
+    {
+        "id": 8,
+        "title": "Music Concert in the Park",
+        "description": "Enjoy a delightful evening of live music in the park. Bring your picnic blankets and relax to the tunes of local musicians.",
+        "price": 100,
+        "banner_img": "music_concert_banner.jpg",
+        "card_img": "music_concert_card.jpg",
+        "tags": [
+            {
+                "name": "music",
+                "color": "#9b59b6"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            },
+            {
+                "name": "outdoors",
+                "color": "#1abc9c"
+            }
+        ],
+        "title_color": "#9b59b6"
+    },
+    {
+        "id": 9,
+        "title": "Book Club Meeting",
+        "description": "Join us for a lively discussion on the latest book selection. Share your thoughts, insights, and favorite passages with fellow book lovers.",
+        "price": 100,
+        "banner_img": "book_club_banner.jpg",
+        "card_img": "book_club_card.jpg",
+        "tags": [
+            {
+                "name": "books",
+                "color": "#3498db"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#3498db"
+    },
+    {
+        "id": 10,
+        "title": "Cooking Class: Italian Cuisine",
+        "description": "Learn the art of Italian cooking with our experienced chefs. Discover the secrets behind classic Italian dishes and impress your friends and family with your culinary skills.",
+        "price": 300,
+        "banner_img": "cooking_class_banner.jpg",
+        "card_img": "cooking_class_card.jpg",
+        "tags": [
+            {
+                "name": "cooking",
+                "color": "#e67e22"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#e67e22"
+    },
+    {
+        "id": 11,
+        "title": "Nature Photography Workshop",
+        "description": "Capture the beauty of nature through your lens. Join our photography experts as they guide you through techniques for stunning nature photography.",
+        "price": 250,
+        "banner_img": "photography_workshop_banner.jpg",
+        "card_img": "photography_workshop_card.jpg",
+        "tags": [
+            {
+                "name": "photography",
+                "color": "#2c3e50"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            },
+            {
+                "name": "outdoors",
+                "color": "#1abc9c"
+            }
+        ],
+        "title_color": "#2c3e50"
+    },
+    {
+        "id": 12,
+        "title": "Coding Bootcamp for Beginners",
+        "description": "Kickstart your journey into the world of coding with our intensive bootcamp. Learn the fundamentals of programming and build your first projects.",
+        "price": 150,
+        "banner_img": "coding_bootcamp_banner.jpg",
+        "card_img": "coding_bootcamp_card.jpg",
+        "tags": [
+            {
+                "name": "coding",
+                "color": "#3498db"
+            },
+            {
+                "name": "technology",
+                "color": "#9b59b6"
+            },
+            {
+                "name": "education",
+                "color": "#27ae60"
+            }
+        ],
+        "title_color": "#3498db"
+    },
+    {
+        "id": 13,
+        "title": "Community Garden Planting Day",
+        "description": "Join us as we plant the seeds for our community garden. Learn about gardening techniques and contribute to the beauty of our neighborhood.",
+        "price": 150,
+        "banner_img": "community_garden_banner.jpg",
+        "card_img": "community_garden_card.jpg",
+        "tags": [
+            {
+                "name": "community",
+                "color": "#3498db"
+            },
+            {
+                "name": "gardening",
+                "color": "#2ecc71"
+            },
+            {
+                "name": "volunteering",
+                "color": "#9b59b6"
+            }
+        ],
+        "title_color": "#27ae60"
+    },
+    {
+        "id": 14,
+        "title": "Dance Fitness Class",
+        "description": "Get your heart pumping and your body moving with our energetic dance fitness class. Burn calories, have fun, and groove to the beat!",
+        "price": 150,
+        "banner_img": "dance_fitness_banner.jpg",
+        "card_img": "dance_fitness_card.jpg",
+        "tags": [
+            {
+                "name": "fitness",
+                "color": "#e74c3c"
+            },
+            {
+                "name": "community",
+                "color": "#3498db"
+            }
+        ],
+        "title_color": "#e74c3c"
+    },
+    {
+        "id": 15,
+        "title": "Science Fair for Kids",
+        "description": "Encourage curiosity and exploration in your child with our science fair. Let them showcase their science projects and engage in hands-on experiments.",
+        "price": 350,
+        "banner_img": "science_fair_banner.jpg",
+        "card_img": "science_fair_card.jpg",
+        "tags": [
+            {
+                "name": "kids",
+                "color": "#e74c3c"
+            },
+            {
+                "name": "science",
+                "color": "#3498db"
+            },
+            {
+                "name": "education",
+                "color": "#27ae60"
+            }
+        ],
+        "title_color": "#e74c3c"
+    }
+]
